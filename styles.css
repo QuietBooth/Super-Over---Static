@@ -45,7 +45,7 @@ h1{
     background-color:rgb(72, 167, 31) ;
 }
 
-.ball{
+.ball{  
     border-radius: 50px;
     background-color: white;
     width: 50px;
@@ -91,3 +91,4 @@ h1{
         transform: scale(1);
     }
 }
+
