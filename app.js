@@ -104,12 +104,6 @@ function updateScore(){
     team2Wicket_tag.innerHTML = team2Wickets
 }
 
-// resetButton.addEventListener("click",function(){
-//     //audio play
-//     gameOverAudio.pause()
-//     gameOverAudio.currentTime=0
-//     gameOverAudio.play()
-// })
 
 function gameOver(){
     gameOverAudio.pause()
